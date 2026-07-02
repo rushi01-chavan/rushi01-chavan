@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Rushikesh Chavan 👋
+# I'm Rushikesh Chavan 👋
 
 ## About Me
 - 🎓 B.Tech CSBS Student
@@ -29,4 +29,4 @@
 - Data Analysis Projects
 
 ## Contact
-📧 Email: your-email@example.com
+📧 Email: rushikeshsunitachavan2005@gmail.com
