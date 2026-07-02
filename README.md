@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**rushi01-chavan/rushi01-chavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rushikesh Chavan 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.Tech CSBS Student
+- 📊 Interested in Data Analytics and Business Intelligence
+- ☁️ Learning Cloud Computing
+- 🌱 Currently learning Python, SQL, Microsoft Excel, and Power BI
+- 📚 Always learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Cloud Computing
+- Git & GitHub
+
+## Current Goals
+- Improve my Data Analytics skills
+- Build practical projects
+- Earn industry certifications
+- Start my career in Data Analytics or Cloud
+
+## Projects
+- Power BI Dashboards
+- SQL Projects
+- Data Analysis Projects
+
+## Contact
+📧 Email: your-email@example.com
